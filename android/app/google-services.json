@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "486366771543",
+    "firebase_url": "https://gmd-todo.firebaseio.com",
+    "project_id": "gmd-todo",
+    "storage_bucket": "gmd-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:486366771543:android:bcb402ef6113b1cb766612",
+        "android_client_info": {
+          "package_name": "com.crisscrosscrass.gmd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "486366771543-dj04bi8lnssk40fjmm097r30p55b62il.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBSJ2AErrEmQ_lXZ9oP2Yb_RxeAb37QMc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "486366771543-dj04bi8lnssk40fjmm097r30p55b62il.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
